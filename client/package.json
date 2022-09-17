@@ -1,5 +1,5 @@
 {
-  "name": "jate",
+  "name": "copyreader",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",

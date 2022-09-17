@@ -1,7 +1,7 @@
 {
-  "name": "jate",
+  "name": "copyreader",
   "version": "1.0.0",
-  "description": "",
+  "description": "copyreader",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
