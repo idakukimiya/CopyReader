@@ -8,6 +8,8 @@
 
 [Links to Project](#links-to-project)
 
+[Screenshot of Project](#screenshot-of-project)
+
 [Technology](#technology)
 
 [Questions](#questions)
@@ -51,6 +53,12 @@ THEN I should have proper build scripts for a webpack application
 [Depolyed URL to Project]("#")
 
 [GitHub URL to Project](https://github.com/idakukimiya/CopyReader)
+
+## Screenshot of Project
+
+![alt text](assets/images/screenshot.png)
+
+![alt text](assets/images/screenshot.png)
 
 ## Technology
 
