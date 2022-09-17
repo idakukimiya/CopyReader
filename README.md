@@ -50,15 +50,13 @@ THEN I should have proper build scripts for a webpack application
 
 ## Links to Project
 
-[Depolyed URL to Project]("#")
+[Depolyed URL to Project](https://nameless-caverns-42444.herokuapp.com/)
 
 [GitHub URL to Project](https://github.com/idakukimiya/CopyReader)
 
 ## Screenshot of Project
 
-![alt text](assets/images/screenshot.png)
-
-![alt text](assets/images/screenshot.png)
+![Screenshot](assets/images/pic1.png)
 
 ## Technology
 
