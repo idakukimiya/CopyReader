@@ -1,15 +1,15 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start:dev": "",
-    "start": "webpack --watch",
+    "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
+    "start": "npm run build && cd server && node server.j",
     "server": "node server.js",
-    "build": "webpack --mode production",
-    "install": "",
-    "client": ""
+    "build": "npm run build",
+    "install": "npm install",
+    "client": "npm start"
   },
   "keywords": [],
   "author": "2U",
